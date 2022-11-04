@@ -162,7 +162,7 @@
       "subdued": {
         "description": "",
         "type": "color",
-        "value": "#222531ff",
+        "value": "#323546ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
