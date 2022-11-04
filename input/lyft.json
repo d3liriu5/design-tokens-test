@@ -126,7 +126,7 @@
       "default": {
         "description": "",
         "type": "color",
-        "value": "#f7f7f7ff",
+        "value": "#f4f4faff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
@@ -150,7 +150,7 @@
       "interactive": {
         "description": "",
         "type": "color",
-        "value": "#0073e7ff",
+        "value": "#523be4ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
@@ -322,7 +322,7 @@
       "interactive": {
         "description": "",
         "type": "color",
-        "value": "#0073e7ff",
+        "value": "#523be4ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
