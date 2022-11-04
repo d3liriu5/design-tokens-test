@@ -126,7 +126,7 @@
       "default": {
         "description": "",
         "type": "color",
-        "value": "#ffffffff",
+        "value": "#f7f7f7ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
@@ -162,11 +162,11 @@
       "subdued": {
         "description": "",
         "type": "color",
-        "value": "#f7f7f7ff",
+        "value": "#e3e3e3ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:e31348b0cf4196cf28bfcae8f218d2982bbc0132,",
+            "styleId": "S:ec924364da5d0475d13abac6071e68feeb5c535d,",
             "exportKey": "color"
           }
         }
