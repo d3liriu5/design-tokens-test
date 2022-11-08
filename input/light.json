@@ -5,10 +5,10 @@
       "type": "custom-radius",
       "value": {
         "smoothing": 0,
-        "topLeft": 8,
-        "topRight": 8,
-        "bottomLeft": 8,
-        "bottomRight": 8
+        "topLeft": 16,
+        "topRight": 16,
+        "bottomLeft": 16,
+        "bottomRight": 16
       },
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
