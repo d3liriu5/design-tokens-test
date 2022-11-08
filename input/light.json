@@ -5,10 +5,10 @@
       "type": "custom-radius",
       "value": {
         "smoothing": 0,
-        "topLeft": 16,
-        "topRight": 16,
-        "bottomLeft": 16,
-        "bottomRight": 16
+        "topLeft": 8,
+        "topRight": 8,
+        "bottomLeft": 8,
+        "bottomRight": 8
       },
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -21,8 +21,8 @@
       "type": "custom-radius",
       "value": {
         "smoothing": 0,
-        "topLeft": 32,
-        "topRight": 32,
+        "topLeft": 16,
+        "topRight": 16,
         "bottomLeft": 0,
         "bottomRight": 0
       },
@@ -200,7 +200,7 @@
       "interactive": {
         "description": "",
         "type": "color",
-        "value": "#0073e7ff",
+        "value": "#e7002aff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
