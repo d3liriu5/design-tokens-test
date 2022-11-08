@@ -1,21 +1,5 @@
 {
   "radius": {
-    "button": {
-      "description": null,
-      "type": "custom-radius",
-      "value": {
-        "smoothing": 0,
-        "topLeft": 16,
-        "topRight": 16,
-        "bottomLeft": 16,
-        "bottomRight": 16
-      },
-      "extensions": {
-        "org.lukasoppermann.figmaDesignTokens": {
-          "exportKey": "radius"
-        }
-      }
-    },
     "bottom-sheet": {
       "description": null,
       "type": "custom-radius",
@@ -41,6 +25,22 @@
         "topRight": 28,
         "bottomLeft": 28,
         "bottomRight": 28
+      },
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "exportKey": "radius"
+        }
+      }
+    },
+    "button": {
+      "description": null,
+      "type": "custom-radius",
+      "value": {
+        "smoothing": 0,
+        "topLeft": 16,
+        "topRight": 16,
+        "bottomLeft": 16,
+        "bottomRight": 16
       },
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
