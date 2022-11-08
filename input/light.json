@@ -176,11 +176,11 @@
       "default": {
         "description": "",
         "type": "color",
-        "value": "#f7f7f7ff",
+        "value": "#ffffffff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:cc3b51d4c414a185e2b47e8904aaa15efabde839,",
+            "styleId": "S:c73edcf8ba97512bdd577f25727931ee1baa67ab,",
             "exportKey": "color"
           }
         }
@@ -229,6 +229,18 @@
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
             "styleId": "S:f1255e7ef6b4032f759a23cbc7e58b848144848b,",
+            "exportKey": "color"
+          }
+        }
+      },
+      "behindcards": {
+        "description": "",
+        "type": "color",
+        "value": "#f7f7f7ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:7671f2f2592449f58efff92c386b51d3b34d22b2,",
             "exportKey": "color"
           }
         }
