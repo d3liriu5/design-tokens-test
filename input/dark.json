@@ -376,6 +376,18 @@
             "exportKey": "color"
           }
         }
+      },
+      "cards": {
+        "description": "",
+        "type": "color",
+        "value": "#323546ff",
+        "blendMode": "normal",
+        "extensions": {
+          "org.lukasoppermann.figmaDesignTokens": {
+            "styleId": "S:3299e65dc9b4e65c1029b88dd55ee94bd34fa9f8,",
+            "exportKey": "color"
+          }
+        }
       }
     },
     "base": {
