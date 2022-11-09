@@ -332,7 +332,7 @@
       "interactive": {
         "description": "",
         "type": "color",
-        "value": "#3ce700ff",
+        "value": "#0073e7ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
