@@ -320,7 +320,7 @@
       "secondary": {
         "description": "",
         "type": "color",
-        "value": "#f2f2f2ff",
+        "value": "#17171aff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
@@ -540,7 +540,7 @@
       "secondary": {
         "description": "",
         "type": "color",
-        "value": "#f2f2f2ff",
+        "value": "#0073e7ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
