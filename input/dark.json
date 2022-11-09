@@ -516,11 +516,11 @@
       "subdued": {
         "description": "",
         "type": "color",
-        "value": "#323546ff",
+        "value": "#5e5e5eff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
-            "styleId": "S:b771ca2ec6b6520f9886adf01edfd613d854708b,",
+            "styleId": "S:f1f0b789e3d5c333f39bb7d3711864898e2a0605,",
             "exportKey": "color"
           }
         }
