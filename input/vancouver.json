@@ -308,7 +308,7 @@
       "default": {
         "description": "",
         "type": "color",
-        "value": "#c8f5b8ff",
+        "value": "#f1b8f5ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
@@ -368,7 +368,7 @@
       "behindcards": {
         "description": "",
         "type": "color",
-        "value": "#c8f5b8ff",
+        "value": "#f1b8f5ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
