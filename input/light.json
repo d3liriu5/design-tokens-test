@@ -122,7 +122,7 @@
     },
     "button-padding": {
       "description": null,
-      "value": 16,
+      "value": 24,
       "type": "dimension",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -232,7 +232,7 @@
       "interactive": {
         "description": "",
         "type": "color",
-        "value": "#7400e7ff",
+        "value": "#05e700ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
