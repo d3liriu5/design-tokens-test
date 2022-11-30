@@ -120,6 +120,16 @@
         }
       }
     },
+    "button-radius": {
+      "description": null,
+      "value": 8,
+      "type": "dimension",
+      "extensions": {
+        "org.lukasoppermann.figmaDesignTokens": {
+          "exportKey": "size"
+        }
+      }
+    },
     "list-item-padding": {
       "description": null,
       "value": 16,
