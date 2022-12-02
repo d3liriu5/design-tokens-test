@@ -587,13 +587,13 @@
     "displaylarge": {
       "type": "custom-fontStyle",
       "value": {
-        "fontSize": 12,
+        "fontSize": 26,
         "textDecoration": "none",
         "fontFamily": "Inter",
         "fontWeight": 700,
         "fontStyle": "normal",
         "fontStretch": "normal",
-        "letterSpacing": -0.12,
+        "letterSpacing": -0.26,
         "lineHeight": 32,
         "paragraphIndent": 0,
         "paragraphSpacing": 0,
@@ -833,7 +833,7 @@
     "displaylarge": {
       "fontSize": {
         "type": "dimension",
-        "value": 12
+        "value": 26
       },
       "textDecoration": {
         "type": "string",
@@ -857,7 +857,7 @@
       },
       "letterSpacing": {
         "type": "dimension",
-        "value": -0.12
+        "value": -0.26
       },
       "lineHeight": {
         "type": "dimension",
