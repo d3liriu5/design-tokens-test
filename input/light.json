@@ -112,7 +112,7 @@
     },
     "button-padding": {
       "description": null,
-      "value": 16,
+      "value": 24,
       "type": "dimension",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -122,7 +122,7 @@
     },
     "button-radius": {
       "description": null,
-      "value": 8,
+      "value": 60,
       "type": "dimension",
       "extensions": {
         "org.lukasoppermann.figmaDesignTokens": {
@@ -342,7 +342,7 @@
       "interactive": {
         "description": "",
         "type": "color",
-        "value": "#0073e7ff",
+        "value": "#e200e7ff",
         "blendMode": "normal",
         "extensions": {
           "org.lukasoppermann.figmaDesignTokens": {
@@ -719,14 +719,14 @@
     "button": {
       "type": "custom-fontStyle",
       "value": {
-        "fontSize": 18,
+        "fontSize": 24,
         "textDecoration": "none",
         "fontFamily": "Inter",
         "fontWeight": 500,
         "fontStyle": "normal",
         "fontStretch": "normal",
-        "letterSpacing": -0.18,
-        "lineHeight": 20,
+        "letterSpacing": -0.24,
+        "lineHeight": 24,
         "paragraphIndent": 0,
         "paragraphSpacing": 0,
         "textCase": "none"
@@ -1109,7 +1109,7 @@
     "button": {
       "fontSize": {
         "type": "dimension",
-        "value": 18
+        "value": 24
       },
       "textDecoration": {
         "type": "string",
@@ -1133,11 +1133,11 @@
       },
       "letterSpacing": {
         "type": "dimension",
-        "value": -0.18
+        "value": -0.24
       },
       "lineHeight": {
         "type": "dimension",
-        "value": 20
+        "value": 24
       },
       "paragraphIndent": {
         "type": "dimension",
